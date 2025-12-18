@@ -1,0 +1,7 @@
+{
+  "name": "B4 MNGT",
+  "description": "A comprehensive Visitor Management System simulator featuring dashboard analytics, kiosk mode, visitor logging, and an AI-powered educational guide explaining VMS concepts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
